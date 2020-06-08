@@ -36,7 +36,7 @@ $(document).ready(function(){
 <html>
 <body>
 
-<h1>Milk palettes/ or preferences</h1> width="12" height="12"
+<h1>Milk palettes/ or preferences</h1> width="12" height="12">
 
 <p>Lactose Intolerant list:</p>
 <ol>
