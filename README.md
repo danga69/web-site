@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
   <head>
     <title>The brewed Awakening</title>
-    <meta charset="UTF-8">
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,10 +14,6 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-
-<p>ilu;o8y</p>
-<p>Click me away!</p>
-<p>Click me too!</p>
 
 </body>
 </html>
