@@ -32,3 +32,24 @@ $(document).ready(function(){
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The ol and ul elements</h1>
+
+<p>Lactose Intolerant list:</p>
+<ol>
+  <li>Almond milk</li>
+  <li>soy milk</li>
+  <li>coconut milk</li>
+</ol>
+
+<p>Lactose milk:</p>
+<ul>
+  <li>whole milk</li>
+  <li>skim milk</li>
+</ul>
+
+</body>
+</html>
