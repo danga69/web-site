@@ -28,7 +28,7 @@ $(document).ready(function(){
 <body>
 
 <h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Coffee" width="500" height="333">
+<img src="pic_coffe.jpg" alt="Coffee" width="500" height="333">
 
 </body>
 </html>
