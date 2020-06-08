@@ -36,7 +36,7 @@ $(document).ready(function(){
 <html>
 <body>
 
-<h1>The ol and ul elements</h1>
+<h1>Milk palettes/ or preferences</h1>
 
 <p>Lactose Intolerant list:</p>
 <ol>
