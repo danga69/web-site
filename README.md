@@ -4,7 +4,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+body {
+  background-color: lightblue;
+}
 <h1>Milk palettes/ or preferences</h1>
 
 <p>Lactose Intolerant list:</p>
