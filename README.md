@@ -1,8 +1,7 @@
-HTML
 <!DOCTYPE html>
     <title>The Brewed Awakening</title>
-    <html lang="en>
   <head>
+    <link rel="stylesheet" href="demo.css
      <title>The Brewed Awakening</title>
 <h1>Milk palettes/ or preferences</h1>
 
