@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   <head>
-    <title>The brewed Awakening</title>
+    <title>The Brewed Awakening</title>
 
 <h1>Milk palettes/ or preferences</h1>
 
