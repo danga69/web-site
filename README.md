@@ -7,7 +7,7 @@ body {
 }
 </style>
    
-    <h1 style="background-color:orangered;" style=color:"black"><head>kassius cafe</head></h1>
+    <h1 style="background-color:dark blue;" style=color:"black"><head>D'Angelo cafe</head></h1>
 
  
 <header style="color:red;">If you want good coffee this is the place to be</header>
