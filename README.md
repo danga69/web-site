@@ -12,12 +12,12 @@ body {
  
 <header style="color:red;">If you want good coffee this is the place to be</header>
   <br>      
-  <section style="color:red;">we make the bestest coffee and tea with some snacks that will leave you satisfied</section>
+  <section style="color:red;">we are the best in west</section>
     <br>    
-  <footer style="color:red;">so come on down to kassius cafe where you can feel good with good coffee</footer>
+  <footer style="color:red;">so come on down to DAngelos cafe where you can taste quality</footer>
       <br>
   <p style="color:red;">
-    everyone loves this cafe is the greaatest of its kind and at such small prices so dont hesetate and eat our food and our drinks
+	Everyone loves this Cafe this cafe greatly convenient for on the go coffe at small prices come and enjoy our food and drink
     </p>
    
     </body>
