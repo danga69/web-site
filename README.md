@@ -8,6 +8,7 @@ body {
 </style>
    
     <h1 style="background-color:dark blue;" style=color:"black"><head>D'Angelo cafe</head></h1>
+    
 body {
  background-image: url("paper.gif");
  background-color: #cccccc;
