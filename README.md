@@ -8,7 +8,10 @@ body {
 </style>
    
     <h1 style="background-color:dark blue;" style=color:"black"><head>D'Angelo cafe</head></h1>
-
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}
  
 <header style="color:red;">If you want good coffee this is the place to be</header>
   <br>      
@@ -17,7 +20,7 @@ body {
   <footer style="color:red;">so come on down to DAngelos cafe where you can taste quality</footer>
       <br>
   <p style="color:red;">
-	Everyone loves this Cafe this cafe greatly convenient for on the go coffe at small prices come and enjoy our food and drink
+	Everyone loves this Cafe this cafe is greatly convenient for on the go coffe at small prices come and enjoy our food and drink
     </p>
    
     </body>
