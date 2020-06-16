@@ -6,14 +6,7 @@ body {
   background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg" alt="coffe" width="600'(
 }
 </style>
-   
-    <h1 style="background-color:dark blue;" style=color:"black"><head>D'Angelo cafe</head></h1>
-    
-body {
- background-image: url("paper.gif");
- background-color: #cccccc;
-}
- 
+      
 <header style="color:red;">If you want good coffee this is the place to be</header>
   <br>      
   <section style="color:red;">we are the best in west</section>
