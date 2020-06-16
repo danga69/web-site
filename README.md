@@ -3,7 +3,7 @@
  
  <style>
 body {
-  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg" alt="coffe" width="600'(
+  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg') alt="coffe" width='600'(
 }
 </style>
       
