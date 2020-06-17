@@ -22,12 +22,13 @@ body {
    
     <img src="https://www.telegraph.co.uk/content/dam/health-fitness/2020/01/09/TELEMMGLPICT000169578515_trans%2B%2BbTl4D02iCM3NuMfK2RT0HTjsyN2j3JnAYXPi059mk8g.jpeg" alt="tea" width="400">
    
-</html>
 <!DOCTYPE html>
 <html>
 <style>
 body {
-  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg'); background-repeat: no-repeat;
+  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg'); 
+background-repeat: no-repeat;
+
 }
 </style>
 
