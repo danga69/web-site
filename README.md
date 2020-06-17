@@ -28,7 +28,7 @@ body {
 body {
   background-image: url('https://www.roadaffair.com/wp-content/uploads/2018/04/Italy-coffee-shutterstock_506163751-1024x683.jpg'); 
 background-repeat: no-repeat;
-width="100%" height="600">
+width="100%" height="100%">
 }
 </style>
 
