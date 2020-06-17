@@ -27,7 +27,7 @@ body {
 <html>
 <style>
 body {
-  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg'); width="500" height="500">
+  background-image: url('https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg'); background-repeat: no-repeat;
 }
 </style>
 
