@@ -30,13 +30,13 @@ body, html {
 <div class="bg"></div>
 
       
-<header style="color:red;">If you want good coffee this is the place to be</header>
+<header style="color:black;">If you want good coffee this is the place to be</header>
   <br>      
-  <section style="color:red;">we are the best in west</section>
+  <section style="color:black;">we are the best in west</section>
     <br>    
-  <footer style="color:red;">so come on down to DAngelos cafe where you can taste quality</footer>
+  <footer style="color:black;">so come on down to DAngelos cafe where you can taste quality</footer>
       <br>
-  <p style="color:red;">
+  <p style="color:black;">
 	Everyone loves this Cafe this cafe is greatly convenient for on the go coffe at small prices come and enjoy our food and drink
     </p>
    
