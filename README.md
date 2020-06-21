@@ -1,7 +1,4 @@
-	<!doctype html>
-<html>
-	
- <!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,7 +10,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("https://www.theroadtrip.co.nz/wp-content/uploads/2019/11/coffee-mountains-new-zealand.jpg");
+  background-image: url("https://img.freepik.com/free-photo/courier-protective-mask-medical-gloves-delivers-takeaway-food-coffee-delivery-service-quarantine-disease-outbreak-coronavirus-covid-19-pandemic-conditions_192729-321.jpg?size=626&ext=jpg");
 
   /* Full height */
   height: 100%; 
@@ -29,7 +26,6 @@ body, html {
 
 <div class="bg"></div>
 
-      
 <header style="color:black;">If you want good coffee this is the place to be</header>
   <br>      
   <section style="color:black;">we are the best in west</section>
