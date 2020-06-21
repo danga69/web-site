@@ -42,17 +42,9 @@ body, html {
    
     </body>
 <img src="https://foodstuffmall.com/wp-content/uploads/2020/02/Make-Your-Celebrations-a-Bit-More-Joyful-By-Serving-Coffee.jpg" alt="coffeee" width="400">
+
    
-    <img src="https://www.telegraph.co.uk/content/dam/health-fitness/2020/01/09/TELEMMGLPICT000169578515_trans%2B%2BbTl4D02iCM3NuMfK2RT0HTjsyN2j3JnAYXPi059mk8g.jpeg" alt="tea" width="400">
-   
-<!DOCTYPE html>
-<html>
-<style>
-body {
-  background-image: url('https://www.roadaffair.com/wp-content/uploads/2018/04/Italy-coffee-shutterstock_506163751-1024x683.jpg'); 
-background-repeat: no-repeat;
-width="100%" height="100%">
-}
+
 </style>
 
 <body>
