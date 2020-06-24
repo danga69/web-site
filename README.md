@@ -10,7 +10,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("https://img.freepik.com/free-photo/courier-protective-mask-medical-gloves-delivers-takeaway-food-coffee-delivery-service-quarantine-disease-outbreak-coronavirus-covid-19-pandemic-conditions_192729-321.jpg?size=626&ext=jpg");
+  background-image: url("//FS1.internal.hhs.school.nz/Home$/Students/dangelo.baker/Downloads/index.html/covid.jpg");
 
   /* Full height */
   height: 100%; 
