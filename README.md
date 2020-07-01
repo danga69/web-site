@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<p><img class="image" src="covid.jpg" width="50%" height="50%">.</p>
+ 
     
-    <link rel="stylesheet" type="text/css" href="d-angelo.css">
-
 </head>
 <body>
 
@@ -42,7 +42,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #420;
+  background-color: #310;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -60,7 +60,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background: #ccc;
+  background: #aaa;
   padding: 20px;
 }
 
@@ -93,12 +93,14 @@ footer {
     -webkit-flex-direction: column;
     flex-direction: column;
   }
+    
 }
     
     .image {
         width: 100%;
         height: 200px;
     }
+    
 </style>
 </head>
 <body>
@@ -111,17 +113,9 @@ footer {
    <li>Cappucino $8</li>
     <li>Flat White $3</li>
     <li>Americano $4</li>
-    
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-
-    
+  
     <header>
-  <h2>Cities</h2>
+  <h2>The Brewed Awakening</h2>
 </header>
 
 <section>
@@ -135,7 +129,7 @@ div {
   
   <article>
     <h1>Location of the school cafe</h1>
-    <p><img class="image" src="google-maps.png" width="80%">.</p>
+    <p><img class="image" src="google-maps.png" width="100%" height="100%">.</p>
   </article>
 </section>
 
