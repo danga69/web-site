@@ -2,25 +2,9 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
+    
+    <link rel="stylesheet" type="text/css" href="d-angelo.css">
 
-.bg {
-  /* The image used */
-  background-image: url("//FS1.internal.hhs.school.nz/Home$/Students/dangelo.baker/Downloads/index.html/covid.jpg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
 </head>
 <body>
 
@@ -41,20 +25,123 @@ body, html {
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
+* {
+  box-sizing: border-box;
 }
-</style>
 
-<div class="footer">
-  <p>Footer</p>
-</div>
-</html> 
-<p>i own this site</p>
+body {
+  font-family: Georgia, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #420;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: black;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #100;
+  padding: 10px;
+  text-align: center;
+  color: red;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+    
+    .image {
+        width: 100%;
+        height: 200px;
+    }
+</style>
+</head>
+<body>
+
+<ul>
+<li>Espresso $5</li>
+<li>Cafe Latte $6</li>
+<li>Double Espresso $3</li>
+ <li>Short Black $3</li>   
+   <li>Cappucino $8</li>
+    <li>Flat White $3</li>
+    <li>Americano $4</li>
+    
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+    
+    <header>
+  <h2>Cities</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">New Zealand</a></li>
+      <li><a href="#">Auckland</a></li>
+      <li><a href="#">Henderson</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Location of the school cafe</h1>
+    <p><img class="image" src="google-maps.png" width="80%">.</p>
+  </article>
+</section>
+
+<footer>
+  <p>Copyright Notice:I own this website.</p>
+</footer>
+
+</body>
+</html>
